@@ -1,3 +1,3 @@
 OPit za rabota s Github.
-Clonirane s GitBash
+Clonirane s GitBash.
 
