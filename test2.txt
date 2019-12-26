@@ -1,2 +1,4 @@
 Opit za rabota s GitHub organizacia.
+Clonirane s TortoiseGit.
+Rabnotna papka na Desctopa.
 
