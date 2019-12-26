@@ -1,6 +1,7 @@
 Opit za rabota s GitHub organizacia.
 Clonirano s GitBash.
 Rabotna papka v IT Kariera.
-
+Clonirane s TortoiseGit.
+Rabnotna papka na Desctopa.
 
 
