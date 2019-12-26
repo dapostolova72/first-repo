@@ -1,4 +1,4 @@
 OPit za rabota s 
-Clonirane s Tortoise.
+Clonirane s TortoiseGit.
 
 
