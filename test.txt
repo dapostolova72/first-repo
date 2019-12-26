@@ -2,5 +2,8 @@ OPit za rabota s Github.
 Clonirane s GitBash.
 Promeniam otnovo fajla. 
 Obedinenieto neznam dali stava.
+OPit za rabota s 
+Clonirane s TortoiseGit.
+
 
 
