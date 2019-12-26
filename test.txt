@@ -1,1 +1,4 @@
-OPit za rabota s Github.
+OPit za rabota s 
+Clonirane s Tortoise.
+
+
