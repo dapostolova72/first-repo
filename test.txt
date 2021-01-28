@@ -1,4 +1,4 @@
-OPit za rabota s Github.
+OPit za rabota s Github otnovo.
 Clonirane s GitBash novo.
 git clone htpp://
 Promeniam otnovo fajla. 
