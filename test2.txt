@@ -1,4 +1,4 @@
-Opit za rabota s GitHub organizacia.
+Opit za rabota s GitHub organizacia otnovo.
 Clonirano s GitBash.
 Rabotna papka v IT Kariera.
 Clonirane s TortoiseGit.
