@@ -1,10 +1,7 @@
-
 OPit za rabota s Github.
 Clonirane s GitBash novo otnovo.
-
 OPit za rabota s Github otnovo.
 Clonirane s GitBash novo.
-
 git clone htpp://
 Promeniam otnovo fajla. 
 Obedinenieto neznam dali stava.
