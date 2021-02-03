@@ -1,0 +1,6 @@
+d:\Users\DA\Documents\DA IT kariera\DAITProgramirane\Допълнителни задачи Tipove danni\opit\bin\Debug\opit.exe.config
+d:\Users\DA\Documents\DA IT kariera\DAITProgramirane\Допълнителни задачи Tipove danni\opit\bin\Debug\opit.exe
+d:\Users\DA\Documents\DA IT kariera\DAITProgramirane\Допълнителни задачи Tipove danni\opit\bin\Debug\opit.pdb
+d:\Users\DA\Documents\DA IT kariera\DAITProgramirane\Допълнителни задачи Tipove danni\opit\obj\Debug\opit.csprojAssemblyReference.cache
+d:\Users\DA\Documents\DA IT kariera\DAITProgramirane\Допълнителни задачи Tipove danni\opit\obj\Debug\opit.exe
+d:\Users\DA\Documents\DA IT kariera\DAITProgramirane\Допълнителни задачи Tipove danni\opit\obj\Debug\opit.pdb
